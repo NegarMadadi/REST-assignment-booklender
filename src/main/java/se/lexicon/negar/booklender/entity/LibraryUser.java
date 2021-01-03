@@ -1,4 +1,4 @@
-package se.lexicon.negar.booklender.model;
+package se.lexicon.negar.booklender.entity;
 
 import javax.persistence.*;
 import java.time.LocalDate;

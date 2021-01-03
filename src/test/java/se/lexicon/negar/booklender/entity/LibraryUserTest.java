@@ -1,4 +1,4 @@
-package se.lexicon.negar.booklender.model;
+package se.lexicon.negar.booklender.entity;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
